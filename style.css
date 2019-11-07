@@ -5,3 +5,8 @@ body, html {
 body {
     min-height: 100%;
 }
+
+img {
+    margin: auto;
+    display: block;
+}
